@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *IG-NOW*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**IG-NOW** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **40** hours spent in total
 
 ## User Stories
 
