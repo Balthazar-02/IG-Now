@@ -63,17 +63,17 @@
 
 
         <EditText
-            android:id="@+id/confirmPassword"
+            android:id="@+id/email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/etUsername"
             android:layout_marginTop="21dp"
-            android:drawableLeft="@drawable/ic_baseline_lock_24"
+            android:drawableLeft="@drawable/ic_baseline_mail_24"
             android:ems="10"
-            android:inputType="textPassword"
+            android:inputType="textEmailAddress"
             tools:layout_editor_absoluteX="11dp"
             tools:layout_editor_absoluteY="122dp"
-            android:hint=" confirme the Password"
+            android:hint=" Email "
             android:textColorHint="@color/white"
             android:textColor="@color/white"/>
 
@@ -98,15 +98,6 @@
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="227dp" />
 
-        <!--        <Button-->
-        <!--            android:id="@+id/btnSingup"-->
-        <!--            android:layout_width="match_parent"-->
-        <!--            android:layout_height="wrap_content"-->
-        <!--            android:layout_marginTop="20dp"-->
-        <!--            android:text="SIGN UP"-->
-        <!--            android:backgroundTint="#4CAF50"-->
-        <!--            tools:layout_editor_absoluteX="0dp"-->
-        <!--            tools:layout_editor_absoluteY="227dp" />-->
         <TextView
             android:id="@+id/haveAccount"
             android:layout_width="wrap_content"

@@ -1,0 +1,35 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="fragments.UserFragment">
+    <ImageView
+        android:id="@+id/sad"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="55dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/sad" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:text="are you sure you want to quit ?"
+        android:textStyle="bold"
+        android:textColor="#9E0000"
+        android:textSize="25dp"
+        android:layout_gravity="center_vertical"/>
+
+    <Button
+        android:id="@+id/btnlogout"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:layout_gravity="center"
+        android:text="LOG OUT !"
+        android:backgroundTint="#A11818"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp" />
+</FrameLayout>

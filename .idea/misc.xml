@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/layout/activity_login.xml" value="0.17481884057971014" />
         <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/layout/activity_register.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/layout/fragment_compose.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/layout/fragment_posts.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/layout/fragment_search.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/layout/fragment_user.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/layout/item_post.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/menu/menu_top_navigation.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Vellie Laguerre/Documents/Code_Path/IGNow/app/src/main/res/xml/fileprovider.xml" value="0.17074275362318841" />
       </map>
     </option>
